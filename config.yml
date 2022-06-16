@@ -3,21 +3,17 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
-  - name: toxicdev.me
-    title: Main Site
-  - name: help.toxicdev.me
-    title: Docs Site
-  - name: source.toxicdev.me
-    title: My Code Bin
-  - name: api.toxicdev.me
-    title: My API
+  - name: FilmsZilla.com
+    title: FilmsZilla
+  - name: Cloud.FilmsZilla.com
+    title: Movie Cloud
 
 # Site configuration
 site:
   # Title
-  title: Toxic Response Time
+  title: FilmsZilla Response Time
   # Favicon / logo
-  favicon: https://beta.diswidgets.org/logo.png
+  favicon: https://filmszilla.com/wp-content/uploads/2022/06/FilmsZilla.png
   # Refresh rate of status images for client
   refresh_rate_sec: 120
 
